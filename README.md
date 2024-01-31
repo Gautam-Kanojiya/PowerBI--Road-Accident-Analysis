@@ -24,7 +24,7 @@
 
 ## Installation / Usage
 <ul>
-  <li>Install Power BI Desktop from Official <a href="https://powerbi.microsoft.com/en-us/downloads/" >Power BI Download Site</li>
+  <li>Install Power BI Desktop</li>
   <li>Download data files from link given in Introduction</li>
   <li>Clone/download this repository to your local machine</li>
   <li>Open Dashboard report file (Road Accidents Analysis.pbix) in Power BI Desktop, to access the dashboard's interactivity</li>
