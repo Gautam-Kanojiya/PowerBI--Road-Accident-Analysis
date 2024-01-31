@@ -1,11 +1,11 @@
 # Road-Accidents_Dashboard
 
-![dahboard](https://github.com/Murriel11/Road-Accidents_Dashboard/assets/129143386/14fbbd5d-266b-47f5-9ffb-9753f8f10228)
+![dahboard]([https://github.com/Murriel11/Road-Accidents_Dashboard/assets/129143386/14fbbd5d-266b-47f5-9ffb-9753f8f10228](https://github.com/Gautam-Kanojiya/PowerBI--Road-Accident-Analysis/blob/master/Assets/Final%20Page.png))
 
 
 ## Introduction
 <ul>
-  <li>This project is aimed at developing a Power BI Dashboard for generating insights about road accident data in the United Kingdom.</li>
+  <li>This project is aimed at developing a Power BI Dashboard for generating insights about road accident data in India.</li>
   <li>The dataset can be accessed from this link:<a href= "https://drive.google.com/drive/folders/1d9OuJpJPRIwnFMr-29HnLldgAGZjGOWP?usp=sharing"> Road Accident Data (UK)</li>
 </ul>
 
